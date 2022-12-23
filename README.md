@@ -113,7 +113,8 @@
 - 토큰기반 인증을 통한 보안설정
 - 백엔드 서버에서 데이터베이스의 데이터를 직접 제공하는 것이 아닌 JSON형식으로 제공
 
-![image](https://user-images.githubusercontent.com/72624263/194676638-a3d4d46a-43a0-4847-a0f6-1a9fec2d476e.png)
+![image](https://user-images.githubusercontent.com/108858121/209343987-496a3280-5f33-44cd-b74f-e8e522c4ce6b.png)
+
 <br>
 
 ### ✔️ BI
