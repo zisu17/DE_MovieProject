@@ -48,28 +48,28 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   - 프레임워크 : <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
-### ✔️ 데이터 처리 프로세스
-- ETL 파이프라인 
-- Data Mart
-- REST-API
-- BI
 
 <br>
 <br>
 
 ## 🚀 데이터 파이프라인
+![image](https://user-images.githubusercontent.com/108858121/209347292-82ae96ed-1295-494a-a2bb-51a37b6220a8.png)
+
 ### ✔️ Data Lake (추출)
 - 도커 컨테이너 위에 하둡을 얹어 Data Lake로 사용하며 필요한 데이터 추출합니다.
 <br>
 
 ![image](https://user-images.githubusercontent.com/72624263/194675149-534b2751-2de2-4bd2-90cf-30143694e1c7.png)
 
+![image](https://user-images.githubusercontent.com/108858121/209348104-36d9dff7-3d04-4611-9a48-4b122873090c.png)
+
+
 <br>
 
 ### ✔️ 가공
 - HDFS에 추출한 Json파일을 spark를 사용하여 구축해 놓은 데이터베이스에 맞게 가공합니다.
 
-![image](https://user-images.githubusercontent.com/72624263/194675199-9b679007-a5cf-4d3b-802f-dbbf94ab073e.png)
+![image](https://user-images.githubusercontent.com/108858121/209347979-766b9653-7168-4c40-8aa7-cb15d100296f.png)
 
 <br>
 
@@ -83,7 +83,7 @@
 
 <br>
 
-![image](https://user-images.githubusercontent.com/72624263/194676044-b9063fbe-7385-4c80-bed0-d70ac38c1031.png)
+![image](https://user-images.githubusercontent.com/108858121/209347864-df667c76-d7fd-44c1-b89c-400f13537403.png)
 
 <br>
 
@@ -102,7 +102,7 @@
 - 순차적으로 진행해야하는 스크립트와 spark session을 사용해야하는 transform의 경우 직렬처리하여 구성
 - 마지막 Data mart는 병렬처리로 구성
 
-![image](https://user-images.githubusercontent.com/72624263/194676491-683b4f9b-f5ff-49c4-8aae-0344e7525a8e.png)
+![image](https://user-images.githubusercontent.com/108858121/209348176-c459ab1e-0029-47b4-a620-47f4414b55d0.png)
 
 <br>
 <br>
